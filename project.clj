@@ -4,5 +4,4 @@
                  [org.clojure/clojure-contrib "1.2.0"]
                  [org.apache.httpcomponents/httpclient "4.1.1"]
                  [joda-time "1.6.2"]]
-  :dev-dependencies [[swank-clojure "1.3.0-SNAPSHOT"]]
 )
